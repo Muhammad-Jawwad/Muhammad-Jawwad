@@ -1,9 +1,10 @@
-<img src="https://github.com/Muhammad-Jawwad/Muhammad-Jawwad/blob/main/Profile%20cover.png" alt="Twitter" />
+
+
 <h1 align="center"> Hi, I'm Jawwad - Undergrad Computer Scientist <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <div align="left">
 
-  - I’m currently exploring Web Development.
+  - I’m currently exploring Web Development.![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9NAY830L2G_Y8wDOviPhp21i_yVuOeZXVMZAVYcKB04m32RCzZsY5yKzGKWDqGMnYxg&usqp=CAU)
   - Development and competitive programming are the focus of my interests.
   - 2022 Objectives: Learn Node JS and begin Backend Development
   - Unrelated fact: I love to explore new things.
