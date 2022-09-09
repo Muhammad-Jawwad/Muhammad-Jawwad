@@ -16,7 +16,7 @@
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Muhammad-Jawwad/)](https://github.com/Muhammad-Jawwad/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syed-muhammad-jawwad/)](https://www.linkedin.com/in/syed-muhammad-jawwad/)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/muhammadjawwad41)](https://www.hackerrank.com/muhammadjawwad41)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammadjawwad417@gmail.com)](mailto:muhammadjawwad417@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJftLcLZFWPGgsjRSfgRBBjldnFFVgbtQVnlcfDPNLmCsnMHxFswfdptWwFfHfwjmbRWgcg)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJftLcLZFWPGgsjRSfgRBBjldnFFVgbtQVnlcfDPNLmCsnMHxFswfdptWwFfHfwjmbRWgcg)
 
 ## Tools and Languages:
 
