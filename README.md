@@ -1,3 +1,4 @@
+<img src="https://github.com/Muhammad-Jawwad/Muhammad-Jawwad/blob/main/Profile%20cover.png" alt="Twitter" />
 <h1 align="center"> Hi, I'm Jawwad - Undergrad Computer Scientist <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <div align="left">
