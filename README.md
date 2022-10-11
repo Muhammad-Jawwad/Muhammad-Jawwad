@@ -45,8 +45,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Jawwad&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Jawwad&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Visits:
- 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Muhammad-Jawwad&label=Profile%20Visits&color=1&icon=5&pretty=false" />
-</a>
+
