@@ -8,9 +8,8 @@
 <div align="left">
 
 
-  - I’m currently exploring Web Development.
+  - I’m currently exploring Backend Development.
   - Development and competitive programming are the focus of my interests.
-  - 2022 Objectives: Learn Node JS and begin Backend Development
   - Unrelated fact: I love to explore new things.
   - I also find the following fields fascinating:
     - Real World problem Solving
