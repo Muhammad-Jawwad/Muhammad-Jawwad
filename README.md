@@ -1,9 +1,8 @@
 
 
-<h1 align="center"> Hi, I'm Jawwad - Undergrad Computer Scientist <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center"> Hi, I'm Jawwad - Undergrad Computer Scientist <img align='right' src='https://programming-gifs.cyclic.app/' widht=100 height=300 alt='samadpls/Programming-Gifs'></h1>
 
-<a href='https://github.com/samadpls/Programing-Gifs'>
-<img align='right' src='https://programming-gifs.herokuapp.com/' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
+></a>
 
 <div align="left">
 
