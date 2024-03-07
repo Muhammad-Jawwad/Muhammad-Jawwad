@@ -1,7 +1,7 @@
 
 
 <h1 align="center"> Hi, I'm Jawwad - Undergrad Computer Scientist<br> 
-<!--   <img align='right' src='https://programming-gifs.cyclic.app/' widht=300 height=300 alt='samadpls/Programming-Gifs'> -->
+  <img align='right' src='https://programming-gifs.cyclic.app/' widht=300 height=300 alt='samadpls/Programming-Gifs'>
 </h1>
 
 ></a>
@@ -9,8 +9,8 @@
 <div align="left">
 
 
-  - I’m currently exploring Backend Development.
-  - Development and competitive programming are the focus of my interests.
+  - I’m currently exploring Data Science and Security.
+  - Development and Data Science are the focus of my interests.
   - Unrelated fact: I love to explore new things.
   - I also find the following fields fascinating:
     - Real World problem Solving
