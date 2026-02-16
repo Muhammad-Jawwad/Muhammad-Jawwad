@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi, I'm Jawwad - Undergrad Computer Scientist<br> 
+<h1 align="center"> Hi, I'm Jawwad - Software Engineer<br> 
 <!--   <img align='right' src='https://programming-gifs.cyclic.app/' widht=300 height=300 alt='samadpls/Programming-Gifs'> -->
 </h1>
 
